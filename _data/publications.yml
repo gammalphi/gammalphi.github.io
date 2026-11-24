@@ -50,6 +50,8 @@
         - name: Paul Robert
         - name: Matthieu Lemerre
         - name: Mihaela Sighireanu
+      venue: International Journal on Software Tools for Technology Transfer
+      venue-acronym: STTT
       easy-summary: /papers/2026-sttt-null-pointer-inference.html
       doi: 10.1007/s10009-026-00846-0
       bibtex: /assets/publications/bibtex/2026-sttt-null-pointer-inference.bib
