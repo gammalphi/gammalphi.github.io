@@ -7,6 +7,23 @@
 
 - year: 2026
   publications:
+    - title: Modular Relational Abstract Interpretation of WebAssembly
+      authors:
+        - name: Saïd Zuhair
+        - name: Léo Andrès
+        - name: Matthieu Lemerre
+      venue: 24th Asian Symposium on Programming Languages and Systems
+      venue-acronym: APLAS
+      # doi: TODO
+      # bibtex: TODO
+      pdf: /assets/publications/pdfs/2026-aplas-modular-relational-wasm.pdf
+      # talk-slides: TODO
+      # talk-video: TODO
+      topics:
+        - WebAssembly
+        - relational abstract domain
+        - modular analysis
+        - abstract interpretation
     - title: A Lattice of Union-Finds
       authors:
         - name: Dorian Lesbre
